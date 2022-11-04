@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+
+.loginall{
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.signup{
+    margin-left: 600px;
+}
+.signup span{
+    color: gray;
+}
+.signupbutton{
+  
+  background-color: white;
+  border: 1px solid gray;
+  color: black;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 30px;
+  width: 110px;
+  color: gray;
+}
+.signupbutton:hover{
+    background-color: royalblue;
+    color: white;
+}
+.logintitle{
+    margin-top: 40px;
+    margin-left: 500px;
+}
+.logintitle h3{
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+
+}
+.logintitle span{
+    font-weight: bold;
+    color: gray;
+}
+.sigupform{
+    margin-left: 500px;
+}
+#loginbutton{
+  
+  font-family: Poppins,sans-serif;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 30px;
+  width: 150px;
+  color: white;
+}
+.loginimg{
+    margin-right: 450px;
+    margin-top: -400px;
+}
+
+.eye i{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: -30px;
+    padding: 5px;
+    cursor: pointer;
+    color: lightgrey;
+}
+
+.eye i:hover{
+    color: black;
+}
